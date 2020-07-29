@@ -1,0 +1,12 @@
+{
+  "name": "learn-python",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "python3 process.py"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
